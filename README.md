@@ -2,4 +2,4 @@
 Sistema automatizado para generación de plantillas y notas de entrega.
 
 - Configuración inicial lista
-- 
+- Módulo de facturación agregado
